@@ -84,7 +84,7 @@ Linguagem utilizada: Python
 Base de dados: sleep_cycle_productivity.csv
 
 Bibliotecas utilizadas:
-Pandas para leitura e manipulação simples de dados 
-Seaborn
-Matplotlib para plootar os graficos 
-scipy.stats para calcular estatisticas
+
+Pandas 
+Teste
+>>>>>>> 45627ef6b7e87950fcd3bd39e4b0d4dc526f3fed
