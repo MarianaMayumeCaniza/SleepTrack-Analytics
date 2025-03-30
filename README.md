@@ -77,3 +77,11 @@ Coletar e preparar os dados necessários para a análise;
 Desenvolver e validar um modelo preditivo para estimar a produtividade com base nos hábitos de sono;
 Elaborar narrativas visuais e textuais para a comunicação dos resultados (storytelling);
 Apresentar os resultados e recomendações de forma clara e acessível, destacando sua aplicabilidade para a melhoria da qualidade do sono e da produtividade.
+
+
+Linguagem utilizada: Python
+
+Base de dados: sleep_cycle_productivity.csv
+
+Bibliotecas utilizadas:
+Pandas 
