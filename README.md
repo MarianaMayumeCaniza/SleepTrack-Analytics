@@ -85,6 +85,6 @@ Base de dados: sleep_cycle_productivity.csv
 
 Bibliotecas utilizadas: 
 Pandas para leitura e manipulação simples de dados 
-Seaborn
+Seaborn para visualização de dados0
 Matplotlib para plootar os graficos 
 scipy.stats para calcular estatisticas
