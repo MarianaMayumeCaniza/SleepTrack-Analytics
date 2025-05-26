@@ -88,3 +88,7 @@ Pandas para leitura e manipulação simples de dados
 Seaborn para visualização de dados0
 Matplotlib para plootar os graficos 
 scipy.stats para calcular estatisticas
+import numpy as np
+import sklearn
+
+
