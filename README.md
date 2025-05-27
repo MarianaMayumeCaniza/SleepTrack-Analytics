@@ -92,3 +92,7 @@ import numpy as np
 import sklearn
 
 
+
+
+LINK para a apresentação do projeto:
+https://youtu.be/gEY1-56Os-4
